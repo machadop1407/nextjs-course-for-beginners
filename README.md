@@ -138,7 +138,7 @@ app/
 
 ---
 
-This course gives you everything you need to go from *zero to deployed* with Next.js. If you enjoy it, make sure to like, subscribe, and check out the [ReactJS course](https://react.padac.co) as well!
+This course gives you everything you need to go from *zero to deployed* with Next.js. If you enjoy it, make sure to like, subscribe, and check out the [ReactJS course](https://react.pedrotech.co) as well!
 
 ---
 
