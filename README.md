@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/6jQdZcYY8OY" target="_blank">
     <img src="./banner.png" alt="Project Banner">
   </a>
   <br />
